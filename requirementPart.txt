@@ -1,0 +1,142 @@
+TypeScript Interview Roadmap
+
+Part 1 — TypeScript Basics
+
+TypeScript kya hai?
+JavaScript vs TypeScript
+Advantages
+Type annotations
+Type inference
+Primitive types
+any
+unknown
+never
+void
+null / undefined
+
+
+
+Part 2 — Objects & Functions
+
+Object types
+Optional properties ?
+Readonly
+Function parameter types
+Return types
+Optional/default parameters
+Function types
+Arrow functions
+
+
+Part 3 — Interface & Type
+
+interface
+type
+Interface vs Type
+Extending interfaces
+Intersection &
+Union |
+Type aliases
+
+
+Part 4 — Advanced Types
+
+Literal types
+Tuples
+Enums
+keyof
+typeof
+in
+Indexed access types
+Type guards
+
+
+Part 5 — Generics
+
+Generic kya hai?
+Generic functions
+Generic interfaces
+Generic types
+Constraints
+extends
+Real-world React/API examples
+
+
+Part 6 — Classes & OOP
+
+Class
+Constructor
+Public/private/protected
+readonly
+abstract
+implements
+extends
+Access modifiers
+
+Part 7 — Utility Types
+
+Partial
+Required
+Readonly
+Pick
+Omit
+Record
+Exclude
+Extract
+ReturnType
+Parameters
+
+Part 8 — Type Narrowing & Advanced Concepts
+
+Type guards
+typeof
+instanceof
+in
+Custom type guards
+Discriminated unions
+Type assertions
+Non-null assertion !
+
+Part 9 — TypeScript + React
+
+Props typing
+useState
+useRef
+useReducer
+Event types
+API response types
+Component typing
+Generic components
+
+Part 10 — TypeScript + Node/Next.js
+
+Express request/response typing
+API types
+DTO
+Environment variables
+Middleware typing
+Next.js API typing
+Server/client types
+
+Part 11 — Interview Tricky Questions
+
+any vs unknown
+interface vs type
+never vs void
+null vs undefined
+enum vs union
+type assertion vs type casting
+extends ka different use
+Structural typing
+Compile-time vs runtime
+TypeScript runtime par kyu nahi hota?
+
+Part 12 — Real Project + Mock Interview
+
+Real-world examples
+Architecture questions
+2–5 year experience questions
+Coding questions
+Rapid-fire questions
+Project me TypeScript kaise use kiya — iska answer
+
